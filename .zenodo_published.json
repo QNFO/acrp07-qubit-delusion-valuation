@@ -1,0 +1,152 @@
+{
+  "created": "2026-08-01T21:28:19.696210+00:00",
+  "modified": "2026-08-01T21:28:20.072343+00:00",
+  "id": 21748713,
+  "conceptrecid": "21748712",
+  "doi": "10.5281/zenodo.21748713",
+  "conceptdoi": "10.5281/zenodo.21748712",
+  "doi_url": "https://doi.org/10.5281/zenodo.21748713",
+  "metadata": {
+    "title": "The Valuation Reading of the Qubit Delusion: Is the Adelic Kernel Load-Bearing?",
+    "doi": "10.5281/zenodo.21748713",
+    "publication_date": "2026-08-01",
+    "description": "Version 1.0 \u2014 2026-08-01. ACRP-07: applies the adelic valuation kernel (valuation \u2192 tree boundary \u2192 Ostrowski \u2192 adeles) to the Qubit Delusion thesis (DOI 10.5281/zenodo.21254143). The K3 audit (ACRP-01, DOI 10.5281/zenodo.21727314) found the Qubit Delusion makes NO explicit kernel use. This paper examines three candidate junctions \u2014 particle-ontology critique, error-correction overhead wall, substrate-is-algorithm thesis \u2014 and finds the kernel is aesthetic, not load-bearing, at all three. Registers four dated, strength-weighted calibration predictions. Part of the Adelic Core Research Program.",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Quni-Gudzinas, Rowan Brad",
+        "affiliation": "Independent Researcher",
+        "orcid": "0009-0002-4317-5604"
+      }
+    ],
+    "keywords": [
+      "qubit delusion",
+      "valuation theory",
+      "adelic kernel",
+      "quantum computing",
+      "error correction overhead",
+      "Ostrowski",
+      "Bruhat-Tits tree",
+      "epistemic critique",
+      "ACRP-07",
+      "non-Archimedean"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/QNFO/acrp07-qubit-delusion-valuation",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.21254143",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.21254901",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.21727314",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.21736300",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.21747228",
+        "relation": "cites",
+        "scheme": "doi"
+      }
+    ],
+    "version": "1.0",
+    "license": "cc-by-4.0",
+    "imprint_publisher": "Zenodo",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "prereserve_doi": {
+      "doi": "10.5281/zenodo.21748713",
+      "recid": 21748713
+    }
+  },
+  "title": "The Valuation Reading of the Qubit Delusion: Is the Adelic Kernel Load-Bearing?",
+  "links": {
+    "self": "https://zenodo.org/api/records/21748713",
+    "html": "https://zenodo.org/records/21748713",
+    "doi": "https://doi.org/10.5281/zenodo.21748713",
+    "parent_doi": "https://doi.org/10.5281/zenodo.21748712",
+    "badge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21748713.svg",
+    "conceptbadge": "https://zenodo.org/badge/doi/10.5281%2Fzenodo.21748712.svg",
+    "files": "https://zenodo.org/api/records/21748713/files",
+    "bucket": "https://zenodo.org/api/files/438bbb6b-5d26-4c91-befc-6604fac874dd",
+    "thumb250": "https://zenodo.org/record/21748713/thumb250",
+    "thumbs": {
+      "10": "https://zenodo.org/record/21748713/thumb10",
+      "50": "https://zenodo.org/record/21748713/thumb50",
+      "100": "https://zenodo.org/record/21748713/thumb100",
+      "250": "https://zenodo.org/record/21748713/thumb250",
+      "750": "https://zenodo.org/record/21748713/thumb750",
+      "1200": "https://zenodo.org/record/21748713/thumb1200"
+    },
+    "latest_draft": "https://zenodo.org/api/deposit/depositions/21748713",
+    "latest_draft_html": "https://zenodo.org/deposit/21748713",
+    "publish": "https://zenodo.org/api/deposit/depositions/21748713/actions/publish",
+    "edit": "https://zenodo.org/api/deposit/depositions/21748713/actions/edit",
+    "discard": "https://zenodo.org/api/deposit/depositions/21748713/actions/discard",
+    "newversion": "https://zenodo.org/api/deposit/depositions/21748713/actions/newversion",
+    "record": "https://zenodo.org/api/records/21748713",
+    "record_html": "https://zenodo.org/record/21748713",
+    "latest": "https://zenodo.org/api/records/21748713/versions/latest",
+    "latest_html": "https://zenodo.org/records/21748713/latest"
+  },
+  "record_id": 21748713,
+  "owner": 1328013,
+  "files": [
+    {
+      "id": "a965d0f3-b200-4718-9f17-8288f420c7c0",
+      "filename": "acrp07-qubit-delusion-valuation.pdf",
+      "filesize": 62550,
+      "checksum": "d39ac60a51a10837cc82639c4d3b8be7",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748713/files/a965d0f3-b200-4718-9f17-8288f420c7c0",
+        "download": "https://zenodo.org/api/records/21748713/draft/files/acrp07-qubit-delusion-valuation.pdf/content"
+      }
+    },
+    {
+      "id": "a90ac0c8-d52e-497e-b8d2-1dfdcb2c9ac6",
+      "filename": "acrp07-qubit-delusion-valuation.md",
+      "filesize": 18757,
+      "checksum": "7c8f8e31bd5035be4be76ac8642d0d1e",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748713/files/a90ac0c8-d52e-497e-b8d2-1dfdcb2c9ac6",
+        "download": "https://zenodo.org/api/records/21748713/draft/files/acrp07-qubit-delusion-valuation.md/content"
+      }
+    },
+    {
+      "id": "5759704e-1581-4dde-b714-7dce22f238f5",
+      "filename": "README.md",
+      "filesize": 521,
+      "checksum": "a490e9dfdc68e79f3c884e30bc6e0da6",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748713/files/5759704e-1581-4dde-b714-7dce22f238f5",
+        "download": "https://zenodo.org/api/records/21748713/draft/files/README.md/content"
+      }
+    },
+    {
+      "id": "0c2b84ee-5d53-48ea-b475-900ef892da91",
+      "filename": "PROVENANCE-BUNDLE.zip",
+      "filesize": 69957,
+      "checksum": "266a9f8456505f7aa2ecf376ec5924b9",
+      "links": {
+        "self": "https://zenodo.org/api/records/21748713/files/0c2b84ee-5d53-48ea-b475-900ef892da91",
+        "download": "https://zenodo.org/api/records/21748713/draft/files/PROVENANCE-BUNDLE.zip/content"
+      }
+    }
+  ],
+  "state": "done",
+  "submitted": true
+}
